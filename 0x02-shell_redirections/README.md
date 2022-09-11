@@ -14,3 +14,4 @@ Write a script that duplicates the last line of the file iacta
 12. Create a script that displays the 10 newest files in the current directory.
 14. Display lines containing the pattern “root” from the file /etc/passwd
 15. Count that word
+16. Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
