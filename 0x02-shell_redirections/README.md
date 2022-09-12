@@ -19,3 +19,4 @@ Write a script that duplicates the last line of the file iacta
 18. Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 18. Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 18. Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+19. Replace all characters A and c from input to Z and e respectively.
