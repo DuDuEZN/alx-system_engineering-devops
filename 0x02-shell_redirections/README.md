@@ -23,3 +23,4 @@ Write a script that duplicates the last line of the file iacta
 20. Create a script that removes all letters c and C from input.
 21. Write a script that reverse its input.
 21. Write a script that reverse its input.
+22. Write a script that displays all users and their home directories, sorted by users.
