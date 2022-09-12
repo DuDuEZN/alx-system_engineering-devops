@@ -18,3 +18,4 @@ Write a script that duplicates the last line of the file iacta
 17. Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 18. Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 18. Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. Display all lines of the file /etc/ssh/sshd_config starting with a letter.
