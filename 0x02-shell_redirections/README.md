@@ -25,3 +25,4 @@ Write a script that duplicates the last line of the file iacta
 21. Write a script that reverse its input.
 22. Write a script that displays all users and their home directories, sorted by users.
 23. Write a script that finds all empty files
+24. Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
